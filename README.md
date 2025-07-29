@@ -17,6 +17,11 @@ The Speech Recognition System is a conceptual smart automation project that uses
 
 circuit:
 
+<img width="870" height="435" alt="Image" src="https://github.com/user-attachments/assets/ea401b23-e1f7-4179-9817-5b6e6c7480ce" />
+
+
 
 output:
+
+<img width="848" height="343" alt="Image" src="https://github.com/user-attachments/assets/8eda20c4-45c3-47df-a3ab-8f9f6ddbbc10" />
 
